@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adomikao.github.io</id>
-    <title>Adomikao&apos;s  daily note</title>
-    <updated>2019-11-06T02:28:40.752Z</updated>
+    <title>杂谈</title>
+    <updated>2019-11-06T02:33:03.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adomikao.github.io"/>
     <link rel="self" href="https://adomikao.github.io/atom.xml"/>
     <logo>https://adomikao.github.io/images/avatar.png</logo>
     <icon>https://adomikao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Adomikao&apos;s  daily note</rights>
+    <rights>All rights reserved 2019, 杂谈</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://adomikao.github.io/post/hello-gridea</id>
