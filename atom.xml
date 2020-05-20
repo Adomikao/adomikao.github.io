@@ -2,13 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adomikao.github.io</id>
     <title>杂谈</title>
-    <updated>2020-05-19T09:45:11.499Z</updated>
+    <updated>2020-05-20T08:25:20.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adomikao.github.io"/>
     <link rel="self" href="https://adomikao.github.io/atom.xml"/>
     <logo>https://adomikao.github.io/images/avatar.png</logo>
     <icon>https://adomikao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 杂谈</rights>
+    <entry>
+        <title type="html"><![CDATA[逆　接]]></title>
+        <id>https://adomikao.github.io/post/gyakusetsu</id>
+        <link href="https://adomikao.github.io/post/gyakusetsu">
+        </link>
+        <updated>2020-05-20T03:17:09.000Z</updated>
+        <content type="html"><![CDATA[<p>１．一生懸命勉強したのに試験に落ちました。</p>
+<p>２．このレモンは大きいのに安いです。</p>
+<p>３．毎日日本語を勉強しているけれども、なかなか漢字が覚えられません。</p>
+<p>４．山田さんはいつも元気ですけれども、きょうは静かです。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[理　由]]></title>
         <id>https://adomikao.github.io/post/riyuu</id>
