@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adomikao.github.io</id>
-    <title>笔记。。。</title>
-    <updated>2020-07-10T06:41:47.688Z</updated>
+    <title>恋玖です</title>
+    <updated>2020-07-30T06:59:34.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adomikao.github.io"/>
     <link rel="self" href="https://adomikao.github.io/atom.xml"/>
     <logo>https://adomikao.github.io/images/avatar.png</logo>
     <icon>https://adomikao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 笔记。。。</rights>
+    <rights>All rights reserved 2020, 恋玖です</rights>
     <entry>
         <title type="html"><![CDATA[逆　接]]></title>
-        <id>https://adomikao.github.io/post/gyakusetsu</id>
-        <link href="https://adomikao.github.io/post/gyakusetsu">
+        <id>https://adomikao.github.io/post/gyakusetsu/</id>
+        <link href="https://adomikao.github.io/post/gyakusetsu/">
         </link>
         <updated>2020-05-20T03:17:09.000Z</updated>
         <content type="html"><![CDATA[<p>１．一生懸命勉強したのに試験に落ちました。</p>
