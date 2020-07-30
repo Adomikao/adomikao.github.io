@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adomikao.github.io</id>
     <title>恋玖です</title>
-    <updated>2020-07-30T07:00:57.460Z</updated>
+    <updated>2020-07-30T07:15:19.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adomikao.github.io"/>
     <link rel="self" href="https://adomikao.github.io/atom.xml"/>
@@ -10,14 +10,19 @@
     <icon>https://adomikao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 恋玖です</rights>
     <entry>
-        <title type="html"><![CDATA[逆　接]]></title>
+        <title type="html"><![CDATA[このレモンは大きいのに安いです。]]></title>
         <id>https://adomikao.github.io/post/gyakusetsu/</id>
         <link href="https://adomikao.github.io/post/gyakusetsu/">
         </link>
         <updated>2020-05-20T03:17:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>１．一生懸命勉強したのに試験に落ちました。</p>
+<p>２．このレモンは大きいのに安いです。</p>
+<p>３．毎日日本語を勉強しているけれども、なかなか漢字が覚えられません。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>１．一生懸命勉強したのに試験に落ちました。</p>
 <p>２．このレモンは大きいのに安いです。</p>
 <p>３．毎日日本語を勉強しているけれども、なかなか漢字が覚えられません。</p>
+<!-- more -->
 <p>４．山田さんはいつも元気ですけれども、きょうは静かです。</p>
 ]]></content>
     </entry>
