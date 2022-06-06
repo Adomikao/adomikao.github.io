@@ -1,6 +1,6 @@
 ---
 title: Important Terminology In Grid
-date: 2022-06-06 13:24:59
+date: 2022-06-06 14:05:54
 tags:
 ---
 
