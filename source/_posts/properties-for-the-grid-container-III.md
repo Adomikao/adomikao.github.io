@@ -159,3 +159,56 @@ We told .item-b to start on column line 5 and end at column line 6, but we never
 Note that dense only changes the visual order of your items and might cause them to appear out of order, which is bad for accessibility.
 
 
+e.g.
+
+```HTML HTML
+<section class="container">
+  <div class="item-a">item-a</div>
+  <div class="item-b">item-b</div>
+  <div class="item-c">item-c</div>
+  <div class="item-d">item-d</div>
+  <div class="item-e">item-e</div>
+</section>
+```
+
+You define a grid with five columns and two rows, and set grid-auto-flow to row (which is also the default):
+
+```CSS CSS
+.container {
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px 60px;
+  grid-template-rows: 30px 30px;
+  grid-auto-flow: row;
+}
+```
+
+When placing the items on the grid, you only specify spots for two of them:
+
+```CSS CSS
+.item-a {
+  grid-column: 1;
+  grid-row: 1 / 3;
+}
+.item-e {
+  grid-column: 5;
+  grid-row: 1 / 3;
+}
+```
+
+Because we set grid-auto-flow to row, our grid will look like this. Notice how the three items we didn’t place (item-b, item-c and item-d) flow across the available rows:
+
+![](/images/grid-auto-flow-01.svg)
+
+If we instead set grid-auto-flow to column, item-b, item-c and item-d flow down the columns:
+
+```CSS CSS
+.container {
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px 60px;
+  grid-template-rows: 30px 30px;
+  grid-auto-flow: column;
+}
+```
+
+![](/images/grid-auto-flow-02.svg)
+
