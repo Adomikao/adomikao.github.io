@@ -2,6 +2,7 @@
 title: Properties for the Grid container II
 date: 2022-06-06 20:38:38
 tags:
+- grid
 ---
 
 ## column-gap and row-gap

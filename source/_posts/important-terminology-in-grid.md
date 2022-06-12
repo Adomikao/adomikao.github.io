@@ -2,6 +2,7 @@
 title: Important Terminology In Grid
 date: 2022-06-06 14:05:54
 tags:
+- grid
 ---
 
 Before diving into the concepts of Grid it’s important to understand the terminology. Since the terms involved here are all kinda conceptually similar, it’s easy to confuse them with one another if you don’t first memorize their meanings defined by the Grid specification. But don’t worry, there aren’t many of them.

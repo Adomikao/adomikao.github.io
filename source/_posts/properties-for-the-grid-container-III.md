@@ -2,6 +2,7 @@
 title: Properties for the Grid container III
 date: 2022-06-06 21:46:10
 tags:
+- grid
 ---
 
 ## justify-content

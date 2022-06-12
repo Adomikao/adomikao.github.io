@@ -2,6 +2,7 @@
 title: Properties for the Grid container
 date: 2022-06-06 17:35:42
 tags:
+- grid
 ---
 
 ## display
